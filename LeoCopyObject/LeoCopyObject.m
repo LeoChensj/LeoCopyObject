@@ -26,7 +26,6 @@
         
         id value = [self valueForKey:key];
         [model setValue:value forKey:key];
-        
     }
     
     free(prperties);

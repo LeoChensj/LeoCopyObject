@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LeoCopyObject"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "LeoCopyObject"
   s.description  = <<-DESC
                    自定义对象深拷贝
